@@ -54,9 +54,15 @@
 ---
 
 ## 📊 Coding Stats
+## 📊 Coding Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/GyanPrakash7891?theme=dark&font=baloo)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GyanPrakash7891?theme=dark&font=baloo" />
+</p>
 
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=gyanprakash16" />
+</p>
 ---
 
 ## 🐍 Contribution Snake
