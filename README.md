@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash</h1>
-<h3 align="center">🚀 Full Stack Developer | 💪 Fitness Hustler | 🎯 Future SDE</h3>
+<h3 align="center">🚀 Full Stack Developer | 🎯 Future SDE</h3>
 
 ---
 
-### ⚡ Typing Animation
+### ⚡ Tech Journey
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;DSA+Lover;Fitness+Hustler;Hostel+Se+Hustle+Tak" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer+(MERN);DSA+Enthusiast+%7C+250%2B+Problems+Solved;Research+Intern+%40+IIT+Patna;Backend+Engineer+%7C+Node.js+%7C+MongoDB;Building+Scalable+Applications;Cryptography+%7C+Distributed+Systems&speed=100" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BTech IT @ NIT Srinagar  
-- 💻 Skilled in **C++, Web Dev, DSA**  
-- 🔥 100 Days of Coding Challenge  
+- 🎓 BTech IT @ NIT Srinagar (CGPA: 7.86)  
+- 💻 Skilled in **C++, JavaScript, MERN Stack**  
+- 🔥 Solved **250+ DSA problems (LeetCode + GFG)**  
+- 🧠 Research Intern @ IIT Patna (Cryptography, IoD)  
 - 🎯 Goal: 30+ LPA + Startup  
 
 ---
@@ -39,7 +40,7 @@
 ## 🚀 Projects
 
 - 🚗 [Uber Clone](https://github.com/priyanshuk6395/uber)  
-- 📁 Google Drive Clone  
+- 💳 Bank Transaction System (Node.js, MongoDB)  
 - 🤖 AI Projects  
 
 ---
@@ -55,9 +56,12 @@
 
 ## 📊 Coding Stats
 
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/GyanPrakash7891?theme=dark&font=baloo" />
+</p>
+
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=gyanprakash16" />
 </p>
 
 ---
