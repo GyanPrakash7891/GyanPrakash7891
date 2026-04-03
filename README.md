@@ -3,12 +3,19 @@
 
 ---
 
+### ⚡ Typing Animation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;DSA+Lover;Fitness+Hustler;Hostel+Se+Hustle+Tak" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 BTech IT @ NIT Srinagar  
-- 💻 Skilled in **C++, Web Development, DSA**  
-- 🔥 Currently doing **100 Days of Coding Challenge**  
-- 🎯 Goal: 30+ LPA Job + Startup  
+- 💻 Skilled in **C++, Web Dev, DSA**  
+- 🔥 100 Days of Coding Challenge  
+- 🎯 Goal: 30+ LPA + Startup  
 
 ---
 
@@ -31,22 +38,38 @@
 
 ## 🚀 Projects
 
-- 🚗 Uber Clone  
+- 🚗 [Uber Clone](https://github.com/priyanshuk6395/uber)  
 - 📁 Google Drive Clone  
-- 🤖 AI Tools Projects  
+- 🤖 AI Projects  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyanPrakash7891&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GyanPrakash7891&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanPrakash7891&theme=radical" />
+</p>
+
+---
+
+## 📊 Coding Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/GyanPrakash7891?theme=dark&font=baloo)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/GyanPrakash7891/GyanPrakash7891/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GyanPrakash7891/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gyanprakash16?tab=activity)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GyanPrakash7891)
 
 ---
 
