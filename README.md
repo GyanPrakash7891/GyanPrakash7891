@@ -14,7 +14,7 @@
 
 - 🎓 BTech IT @ NIT Srinagar (CGPA: 7.86)  
 - 💻 Skilled in **C++, JavaScript, MERN Stack**  
-- 🔥 Solved **250+ DSA problems (LeetCode + GFG)**  
+- 🔥 Solved **500+ DSA problems (LeetCode + GFG)**  
 - 🧠 Research Intern @ IIT Patna (Cryptography, IoD)  
 - 🎯 Goal: 30+ LPA + Startup  
 
